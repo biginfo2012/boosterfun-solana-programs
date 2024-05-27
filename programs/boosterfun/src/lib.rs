@@ -8,7 +8,7 @@ mod instructions;
 mod state;
 
 // Set the correct key here
-declare_id!("Dk35sdrj9qniZMSmxBc1BgYD42Fe2RviAyq2ZbeEavp1");
+declare_id!("Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV");
 
 #[program]
 pub mod boosterfun {

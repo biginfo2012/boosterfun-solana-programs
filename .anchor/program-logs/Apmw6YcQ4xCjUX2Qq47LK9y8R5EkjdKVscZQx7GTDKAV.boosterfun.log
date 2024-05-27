@@ -1,0 +1,640 @@
+Streaming transaction logs mentioning Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV. Confirmed commitment
+Transaction executed in slot 301614887:
+  Signature: 4zeKxQncH3F5TeJbhc8oCQpT29wSimJdYS4h7DFkvGREu1t4vKnXgwAfYTTKX3jQHsBexzd9pdTeSC7rv19o88Rk
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 8465 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614903:
+  Signature: 3h7u48Jjw1FoYvJ8Ff1ksM4kUtsMxqMxia7acP1mVXzJx3BC75958nMAcZsMRe6xKuurXzy22FFRNUByzTdRL2uc
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 9965 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614913:
+  Signature: 3j6VqZ4JF4bKn7pTLYWKpNa2aPx6VPyZcWrbZwWpbYs4di4T3aXxADJ4HdCiboY1LNLhtjD9B9xw73GtzMHpgPBV
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateTokenMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2780 of 190513 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 172154 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 165541 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 161659 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 21889 of 179051 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: Creating metadata account...
+    Program log: Metadata account address: 7UV1vmvuMAcgnWEoYehuJ2voCArfrKYiEKMZpSR3gtZH
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s invoke [2]
+    Program log: IX: Create Metadata Accounts v3
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Allocate space for the account
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Assign the account to the owning program
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s consumed 36473 of 132117 compute units
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4492 of 92914 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Token mint created successfully.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 112063 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614920:
+  Signature: 3z4x1nDcCbvAaop76Z2oD1594mrZ5GvWTzG3izsfCg8Ty49JWXSDFqaXcmQp5QqfSjkRf5oSGHeiJWKuShFP4YCL
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreatePool
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 175358 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 168745 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 164861 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20490 of 180833 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 51036 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614927:
+  Signature: 3FstTRcidtifxQGaMhKGJfg3sUnoRbwpYKhetUJv5Q6j3dB3mjntpnNATNz38qXiN2daj7F4HzxVxXKs6Fhcxia1
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 8465 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614928:
+  Signature: 3FstTRcidtifxQGaMhKGJfg3sUnoRbwpYKhetUJv5Q6j3dB3mjntpnNATNz38qXiN2daj7F4HzxVxXKs6Fhcxia1
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 8465 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614937:
+  Signature: RauUQP99ZeoX6caowLTacVvZgsA56VhdvRDMVBWcsq4YRw8TR3MWDBwhw2a41JVBKUQ99xTSuSF6LRwPui9kb2r
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateTokenMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2780 of 190513 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 169154 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 162541 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 158659 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 23389 of 177551 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: Creating metadata account...
+    Program log: Metadata account address: 9DEKnkmp86Apg4QqoXYRbDDpuFMoEQMoQKHimDVZxqwq
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s invoke [2]
+    Program log: IX: Create Metadata Accounts v3
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Allocate space for the account
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Assign the account to the owning program
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s consumed 36473 of 127578 compute units
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4492 of 88375 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Token mint created successfully.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 116602 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614940:
+  Signature: RauUQP99ZeoX6caowLTacVvZgsA56VhdvRDMVBWcsq4YRw8TR3MWDBwhw2a41JVBKUQ99xTSuSF6LRwPui9kb2r
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateTokenMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2780 of 190513 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 169154 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 162541 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 158659 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 23389 of 177551 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: Creating metadata account...
+    Program log: Metadata account address: 9DEKnkmp86Apg4QqoXYRbDDpuFMoEQMoQKHimDVZxqwq
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s invoke [2]
+    Program log: IX: Create Metadata Accounts v3
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Allocate space for the account
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Assign the account to the owning program
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s consumed 36473 of 127578 compute units
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4492 of 88375 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Token mint created successfully.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 116602 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614944:
+  Signature: 3imJGnYUfhT2DyvihtTW11u8qKkj3YVWHorqvyf4DsMPGL5q9a8twcme6qbhN4XH9SoB8BkGc3vb7PFUNSAyaC35
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreatePool
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 166358 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 159745 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 155861 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 24990 of 176333 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 54036 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614951:
+  Signature: 5HDnSBE43iLe6Vh2XGHxZ2h2gehBa7RwSUDLoiUaCmkvzrpHG45XL3uNRFLphdcnmfpXQDegZuX6gRXPzkLSWdyD
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: DepositLiquidity
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 173722 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 31334 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614960:
+  Signature: 5a47wNbxbkhw4YZT7UCdH3eVPvdQubFjJbEsHqXmEJv1H3jwswowJ4fCVZattMJ5JzsdXwFNwGwMzZrTDyP6aYsV
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 9965 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614967:
+  Signature: 4veHDZ3j6rXUfsna7seeKXJYXVVkQVsAFGrWqpfmjJaSNSyTExYnFVZW7vHCbwPfBnNaZaB2kLrUt8LtE3GoTTA5
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateTokenMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2780 of 190513 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 172154 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 165541 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 161659 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 21889 of 179051 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: Creating metadata account...
+    Program log: Metadata account address: CRFVomVXKiJJ7Aj45A1T6uc9JGA2ctL2r3LEUmnTpZW8
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s invoke [2]
+    Program log: IX: Create Metadata Accounts v3
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Allocate space for the account
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Assign the account to the owning program
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s consumed 33473 of 133552 compute units
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4492 of 97349 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Token mint created successfully.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 107628 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614968:
+  Signature: 4veHDZ3j6rXUfsna7seeKXJYXVVkQVsAFGrWqpfmjJaSNSyTExYnFVZW7vHCbwPfBnNaZaB2kLrUt8LtE3GoTTA5
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateTokenMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2780 of 190513 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 172154 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 165541 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 161659 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 21889 of 179051 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: Creating metadata account...
+    Program log: Metadata account address: CRFVomVXKiJJ7Aj45A1T6uc9JGA2ctL2r3LEUmnTpZW8
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s invoke [2]
+    Program log: IX: Create Metadata Accounts v3
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Allocate space for the account
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Assign the account to the owning program
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s consumed 33473 of 133552 compute units
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4492 of 97349 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Token mint created successfully.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 107628 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614976:
+  Signature: 3gQHK9Wq5yEwHemnmhm8KVHN2CZd9pGxr5w35tzF51z5ixn4jPiDc8x3DfWwk8XSyv7Qw96PYgYDx1KSXgeVvmz3
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreatePool
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 178358 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 171745 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 167861 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20490 of 183833 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 43536 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614983:
+  Signature: 2WYDX1H6vvyVPJvHWxp4psgAjvrsLTDW4A99wSvBn9EDwyc5yYm5CSD1hmWcYa9apeGmaSxfBysUQWe9d6qSsz2f
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: DepositLiquidity
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 182722 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 22334 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614990:
+  Signature: 34FWAjBWSeD1PLuQG9gnrkg3Ln7hXh1MPYv2XQehZRQMHVGt32VMDP5Ter5R3ft8xG8htWmeXjnVQeiXxsCkHL6p
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: SwapExactTokensForTokens
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 177162 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 170549 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 166665 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20490 of 182637 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 143046 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Traded 1000000000 tokens for 32000000000000000
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 63297 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301614997:
+  Signature: 43QbLQJeMEfeFP1qgL8X7KppPRpanWgiwSLmLQsXgnSMsh7qgDGkpiuaKpXwo1368QX7D253ERNbgAgdLrpLLpYT
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: SwapExactTokensForTokens
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 173686 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program log: Traded 30000000000000000 tokens for 939849624
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 36905 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301615002:
+  Signature: 2JpvcBc7FwJC2ikJ6TaL8CN8T9pDtsVBPVCpy9jjXCnJTEHycATNJ5ae8Gm3MEhuztbApc1aP39QY3H52D7KZXGB
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 9965 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301615003:
+  Signature: 2JpvcBc7FwJC2ikJ6TaL8CN8T9pDtsVBPVCpy9jjXCnJTEHycATNJ5ae8Gm3MEhuztbApc1aP39QY3H52D7KZXGB
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateAmm
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 9965 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301615009:
+  Signature: BNNdpa1XEUbR4TjmwpZ5TmESqVZGWkFibkfpQx6XEukryoBVcfCDgrAL4wbDzdkdm3Du76DRUbzvq9esRCe5BSh
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreateTokenMint
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: InitializeMint2
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2780 of 190513 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 175154 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 168541 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 164659 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20389 of 180551 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: Creating metadata account...
+    Program log: Metadata account address: 8gvt86q1zDCGxvwzGeZwvixT1bGC7B14HRJJdbX6ZkmN
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s invoke [2]
+    Program log: IX: Create Metadata Accounts v3
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Allocate space for the account
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Assign the account to the owning program
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s consumed 33473 of 138091 compute units
+    Program metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x1s success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: MintTo
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4492 of 101888 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program log: Token mint created successfully.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 103089 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301615020:
+  Signature: 396HxsF77qxF7EVWBcNtbJGNoH9oPomepYMppSm2aaQdogvHxHT6BuVpRLgK7xfTqrvkUHj1eKpMjogNxFTJptPx
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: CreatePool
+    Program 11111111111111111111111111111111 invoke [2]
+    Program 11111111111111111111111111111111 success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 176858 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 170245 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 166361 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20490 of 182333 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 49536 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301615023:
+  Signature: WigKaVbT18FZp6E5DGw8vYsq3CWZhpedD5d3KMUkbTQLDtZsok1drnDte9mMnCwo5W3CVAmGxAWLysSFNnp4sYz
+  Status: Ok
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: DepositLiquidity
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]
+    Program log: Instruction: Transfer
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4645 of 178222 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 26834 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV success
+Transaction executed in slot 301615031:
+  Signature: 3Rn67Cm5oCcBmBLjLLC9ew4c6nYm944RNvmjYgHJENnqK78eX2A51Uq5SbAPz7v1cSfXtGK5DgbUWBVCWRq5VDvr
+  Status: Error processing Instruction 0: custom program error: 0x1771
+  Log Messages:
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV invoke [1]
+    Program log: Instruction: SwapExactTokensForTokens
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL invoke [2]
+    Program log: Create
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: GetAccountDataSize
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1595 of 178662 compute units
+    Program return: TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA pQAAAAAAAAA=
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program 11111111111111111111111111111111 invoke [3]
+    Program 11111111111111111111111111111111 success
+    Program log: Initialize the associated token account
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeImmutableOwner
+    Program log: Please upgrade to SPL Token 2022 for immutable owner support
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 1405 of 172049 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [3]
+    Program log: Instruction: InitializeAccount3
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4214 of 168165 compute units
+    Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20490 of 184137 compute units
+    Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success
+    Program log: AnchorError thrown in programs/boosterfun/src/instructions/swap_exact_tokens_for_tokens.rs:64. Error Code: InvalidTooMany. Error Number: 6001. Error Message: Invalid buy too many tokens.
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV consumed 57208 of 200000 compute units
+    Program Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV failed: custom program error: 0x1771

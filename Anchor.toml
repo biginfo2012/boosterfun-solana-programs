@@ -1,11 +1,12 @@
 [toolchain]
+anchor_version = "0.29.0"
 
 [features]
 seeds = false
 skip-lint = false
 
 [programs.devnet]
-boosterfun = "Dk35sdrj9qniZMSmxBc1BgYD42Fe2RviAyq2ZbeEavp1"
+boosterfun = "Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV"
 
 [registry]
 url = "https://api.apr.dev"
