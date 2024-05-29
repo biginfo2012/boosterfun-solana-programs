@@ -6,7 +6,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-boosterfun = "Apmw6YcQ4xCjUX2Qq47LK9y8R5EkjdKVscZQx7GTDKAV"
+boosterfun = "2QcNKPSjvswRU35W2FmQqcsLejiva9Yjura6xm4gSvki"
 
 [registry]
 url = "https://api.apr.dev"

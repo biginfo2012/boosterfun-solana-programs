@@ -39,10 +39,11 @@ export const mintingTokens = async ({
   mintedAmount?: number;
   decimals?: number;
 }) => {
+  console.log("   ----- Create token mint -----");
   const metadata = {
-    name: "Booster Fun",
-    symbol: "BOOSTERFUN",
-    uri: "https://gateway.pinata.cloud/ipfs/QmRRn1UZJHKjLbq2EtZcrEjn2qeUX6B2cjYLir233Dk5vn",
+    name: "Booster DAN",
+    symbol: "DAN",
+    uri: "https://lime-acceptable-gibbon-564.mypinata.cloud/ipfs/QmSADa6pHyKfDUkacMVMorM7KDZb1n2AGQrvcCVSaPkXTi",
   };
 
   const associatedTokenAccount = await getAssociatedTokenAddressSync(
@@ -81,6 +82,12 @@ export const mintingTokens = async ({
     })
     .signers([mintAKeypair, creator])
     .rpc();
+  
+    console.log("     Token Name: Booster DAN");
+    console.log("     Token Symbol: DAN");
+    console.log(
+      `     Transaction Signature: https://solscan.io/tx/${tx}?cluster=devnet`
+    );
 };
 
 export interface TestValues {
